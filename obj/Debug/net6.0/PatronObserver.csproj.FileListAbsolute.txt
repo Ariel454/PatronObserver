@@ -1,0 +1,15 @@
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\bin\Debug\net6.0\PatronObserver.exe
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\bin\Debug\net6.0\PatronObserver.deps.json
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\bin\Debug\net6.0\PatronObserver.runtimeconfig.json
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\bin\Debug\net6.0\PatronObserver.dll
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\bin\Debug\net6.0\PatronObserver.pdb
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.csproj.AssemblyReference.cache
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.GeneratedMSBuildEditorConfig.editorconfig
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.AssemblyInfoInputs.cache
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.AssemblyInfo.cs
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.csproj.CoreCompileInputs.cache
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.dll
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\refint\PatronObserver.dll
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.pdb
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\PatronObserver.genruntimeconfig.cache
+B:\U\6 SEMESTER\ARQUITECTURA Y DISEÑO DE SOFTWARE\PatronObserver\obj\Debug\net6.0\ref\PatronObserver.dll
